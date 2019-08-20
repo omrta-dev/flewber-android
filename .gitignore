@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+
+# Folders
+**/ARM64
+**/ARM
+**/x86
+**/x64
+**/Debug
+**/Release
+**/.vs
