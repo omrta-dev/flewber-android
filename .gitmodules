@@ -1,0 +1,3 @@
+[submodule "Flewber/Flewber.NativeActivity/Engine"]
+	path = Flewber/Flewber.NativeActivity/Engine
+	url = https://github.com/omrta-dev/Flewber
