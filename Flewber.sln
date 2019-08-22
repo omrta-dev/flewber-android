@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "flewber-android", "flewber-android", "{50F3C23A-BD6E-43AF-BA24-A634824B2D0E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Flewber", "Flewber", "{50F3C23A-BD6E-43AF-BA24-A634824B2D0E}"
 EndProject
 Project("{39E2626F-3545-4960-A6E8-258AD8476CE5}") = "Flewber.Packaging", "Flewber\Flewber.Packaging\Flewber.Packaging.androidproj", "{DC3F9720-FF1A-4948-81C2-C02113796B50}"
 EndProject
